@@ -22,7 +22,7 @@
 		"subject" : "Un Nuevo Mensaje de la Landing en Italiano",
 		"custom_before_subject" : "",
 		"body" : "<b>¡Enhorabuena!</b>,<br />Hemos recibido un nuevo mensaje desde el formulario de la landing page en italiano<br /><br />Estos son los datos del solicitante:<br />",
-		"body_ip_address" : "Indirizzo IP: {{1}}",
+		"body_ip_address" : "Localizar el usuario: <a href=\"http://{{1}}.ip-adress.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Geolocalizar</a>",
 		"confirmation" : {
 			"subject" : "Abbiamo ricevuto il tuo messaggio",
 			"body" : "Grazie!<br />Abbiamo ricevuto il tuo messaggio. Ti risponderemo al più presto.",
