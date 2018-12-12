@@ -10,4 +10,4 @@ Disallow: /doc/
 Allow: /*.js$
 Allow: /*.css$
 
-Sitemap: https://electrofitness.tech//sitemap.xml
+Sitemap: https://aq8system.it//sitemap.xml

@@ -3,16 +3,16 @@
 error_reporting(E_ALL);
 
 /* START - Required Config */
-$configs['from_name']				= 'ElectroFitness | Landing México';				// Your name will be used in emails
+$configs['from_name']				= 'ElectroFitness | Landing Italia';			// Your name will be used in emails
 $configs['from_address']			= 'management@aq8system.com';					// Your email address used to send emails
 $configs['to_addresses']			= array('management@aq8system.com');			// The addresse(s) where to send all the requests
 /* END - Required Config */
 
 /* START - Optional Configs */
-$configs['lang_path']				= 'lang/es.json';								// Path to the language file
+$configs['lang_path']				= 'lang/it.json';								// Path to the language file
 $configs['recaptcha_enabled']		= true;											// Is Google reCAPTCHA enabled
-$configs['recaptcha_secret']		= '6LfDuX4UAAAAACCCPTbsqIrhd7E6p-uZ0kQIBpUY';	// Google reCAPTCHA secret key
-$configs['success_link']			= 'felicidades';								// Link of a custom success page
+$configs['recaptcha_secret']		= '6LdMoYAUAAAAALt9jNPqOVOGUq5lJ8QTO2xOKh52';	// Google reCAPTCHA secret key
+$configs['success_link']			= 'grazie';										// Link of a custom success page
 $configs['curl_enabled']			= true;											// Set to false if your server has cURL disabled
 // Generic email configs
 $configs['email_to_owner']			= true;											// Send the email with informations to the site owner?
